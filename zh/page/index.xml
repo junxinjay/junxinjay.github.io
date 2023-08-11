@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>page on 君心Jay</title>
-    <link>/zh/page/</link>
+    <link>https://junxinjay.github.io/zh/page/</link>
     <description>Recent content in page on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/zh/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>分享</title>
-      <link>/zh/page/share/</link>
+      <link>https://junxinjay.github.io/zh/page/share/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/zh/page/share/</guid>
+      <guid>https://junxinjay.github.io/zh/page/share/</guid>
       <description>hugo主题模版 自用hugo主题模版，由Blist主题修改而来，因为我不懂代码，一点一点修改了很久，最终修改成了理想的样式，希望你也喜欢这个主题。
 百度云：【？？？】</description>
     </item>
     
     <item>
       <title>关于...</title>
-      <link>/zh/page/about/</link>
+      <link>https://junxinjay.github.io/zh/page/about/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/zh/page/about/</guid>
+      <guid>https://junxinjay.github.io/zh/page/about/</guid>
       <description>关于我 我是一个设计爱好者。 喜欢看电影和打游戏， 擅于利用搜索解决各类问题， 喜欢折腾各种系统、软件和APP，电脑重装，手机刷机。 平时有时间就只想在家躺着。。。
 关于工作 我想说，
 工作是一场马拉松，不是短跑。 尊重人，而不是头衔。 工作从白板开始，而不是从键盘。 产出的是价值，而不是图片。 热爱生活，而不是工作。 学会享受过程。 关于生活 我想说， 生活,不只是诗和远方,还有眼前的苟且， 哈哈，let&amp;rsquo;s dance!</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>note on 君心Jay</title>
-    <link>/zh/note/</link>
+    <link>https://junxinjay.github.io/zh/note/</link>
     <description>Recent content in note on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/zh/note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>photoshop</title>
-      <link>/zh/note/photoshop/</link>
+      <link>https://junxinjay.github.io/zh/note/photoshop/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/zh/note/photoshop/</guid>
+      <guid>https://junxinjay.github.io/zh/note/photoshop/</guid>
       <description>。。。
 -End</description>
     </item>
