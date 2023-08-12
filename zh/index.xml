@@ -8,22 +8,12 @@
     <language>zh</language>
     <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>photoshop</title>
-      <link>https://junxinjay.github.io/zh/note/photoshop/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://junxinjay.github.io/zh/note/photoshop/</guid>
-      <description>。。。
--End</description>
-    </item>
-    
-    <item>
       <title>分享</title>
       <link>https://junxinjay.github.io/zh/page/share/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://junxinjay.github.io/zh/page/share/</guid>
-      <description>hugo主题模版 自用hugo主题模版，由Blist主题修改而来，因为我不懂代码，一点一点修改了很久，最终修改成了理想的样式，希望你也喜欢这个主题。
+      <description>hugo主题模版 自用hugo主题模版，由Blist主题修改而来。
 百度云：【？？？】
 下载程序 git.exe //安装
 github Desktop.exe //安装
@@ -44,6 +34,16 @@ package-lock.json
 用VScode打开hugo.toml
 baseURL = &amp;#34;http://example.org/&amp;#34; languageCode = &amp;#34;en-us&amp;#34; title = &amp;#34;My New Hugo Site&amp;#34; theme: blist //加上这个主题名字，和themes文件夹下的一致 bugoblog目录下右键Open Git Bash here
 npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： http://localhost:1313</description>
+    </item>
+    
+    <item>
+      <title>photoshop</title>
+      <link>https://junxinjay.github.io/zh/note/photoshop/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junxinjay.github.io/zh/note/photoshop/</guid>
+      <description>。。。
+-End</description>
     </item>
     
     <item>
