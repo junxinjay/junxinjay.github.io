@@ -114,7 +114,7 @@ package-lock.json
 baseURL = &#34;http://example.org/&#34; languageCode = &#34;en-us&#34; title = &#34;My New Hugo Site&#34; theme: blist //加上这个主题名字，和themes文件夹下的一致 bugoblog目录下右键Open Git Bash here
 npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： http://localhost:1313"><meta itemprop="datePublished" content="2023-08-12T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-08-12T00:00:00+00:00" />
-<meta itemprop="wordCount" content="127">
+<meta itemprop="wordCount" content="162">
 <meta itemprop="keywords" content="" />
 
   
@@ -227,7 +227,7 @@ npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： 
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      127&nbsp;words
+      162&nbsp;words
       
         
       
@@ -289,7 +289,19 @@ npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： 
         
         </li><li>
         <a href="#cnd%e5%8a%a0%e9%80%9f">CND加速</a>
+        
+
+        
+        </li><li>
+        <a href="#%e5%8f%af%e8%83%bd%e9%81%87%e5%88%b0%e7%9a%84%e9%97%ae%e9%a2%98">可能遇到的问题</a>
+        
+
+        
+        <ul>
+            <li>
+        <a href="#push%e5%a4%b1%e8%b4%a5">push失败</a>
         </li></ul>
+    </li></ul>
   </details>
 
     <h3 id="hugo主题模版">hugo主题模版</h3>
@@ -336,7 +348,9 @@ npm i -g postcss-cli
 <h3 id="更新博客">更新博客</h3>
 <p>每次写完博客，都要要重新生成静态页面，在hugoblog目录下执行</p>
 <pre tabindex="0"><code>hugo -F --cleanDestinationDir
-</code></pre><p>public目录下</p>
+</code></pre><p>进入public目录</p>
+<pre tabindex="0"><code>cd public
+</code></pre><p>执行</p>
 <pre tabindex="0"><code>git add .                     //添加所有文件到暂存区
 git status                    //查看状态
 git commit -m &#39;MyFristCommit&#39;      //把文件提交到仓库 -m 后面的是备注信息
@@ -353,6 +367,20 @@ git push                      //推送至远程仓库
 <pre tabindex="0"><code>https://cdn.jsdelivr.net/gh/xiezhr/mycdn/source/bgimg/back-rain.png       ## 获取最新资源
 https://cdn.jsdelivr.net/gh/xiezhr/mycdn@1.0/source/bgimg/back-rain.png   ## 获取1.0版本的资源
 </code></pre><p>未完待续。。。</p>
+<hr>
+<h3 id="可能遇到的问题">可能遇到的问题</h3>
+<h4 id="push失败">push失败</h4>
+<pre tabindex="0"><code>$ git push
+fatal: unable to access &#39;https://github.com/junxinjay/junxinjay.github.io.git/&#39;:
+ Failed to connect to github.com port 443 after 2081 ms: Couldn&#39;t connect to ser
+ver
+</code></pre><p>进入网址获取ip</p>
+<p><a href="https://sites.ipaddress.com/www.github.com/" target="_blank" rel="noopener">https://sites.ipaddress.com/www.github.com/</a>
+</p>
+<p>把ip和github.com一起写入hosts</p>
+<p>如</p>
+<pre tabindex="0"><code>140.82.112.4 github.com
+</code></pre><p>再次push即可</p>
 
   </article>
 <div class="px-2 mb-2">
