@@ -114,7 +114,7 @@ package-lock.json
 baseURL = &#34;http://example.org/&#34; languageCode = &#34;en-us&#34; title = &#34;My New Hugo Site&#34; theme: blist //加上这个主题名字，和themes文件夹下的一致 bugoblog目录下右键Open Git Bash here
 npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： http://localhost:1313"><meta itemprop="datePublished" content="2023-08-12T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-08-12T00:00:00+00:00" />
-<meta itemprop="wordCount" content="162">
+<meta itemprop="wordCount" content="204">
 <meta itemprop="keywords" content="" />
 
   
@@ -227,7 +227,7 @@ npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： 
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      162&nbsp;words
+      204&nbsp;words
       
         
       
@@ -299,6 +299,11 @@ npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： 
         
         <ul>
             <li>
+        <a href="#status%e5%a4%b1%e8%b4%a5">status失败</a>
+        
+
+        
+        </li><li>
         <a href="#push%e5%a4%b1%e8%b4%a5">push失败</a>
         </li></ul>
     </li></ul>
@@ -369,7 +374,19 @@ https://cdn.jsdelivr.net/gh/xiezhr/mycdn@1.0/source/bgimg/back-rain.png   ## 获
 </code></pre><p>未完待续。。。</p>
 <hr>
 <h3 id="可能遇到的问题">可能遇到的问题</h3>
-<h4 id="push失败">push失败</h4>
+<h4 id="status失败">status失败</h4>
+<pre tabindex="0"><code>On branch main
+Your branch is ahead of &#39;origin/main&#39; by 1 commit.
+  (use &#34;git push&#34; to publish your local commits)
+
+nothing to commit, working tree clean
+</code></pre><p>执行</p>
+<pre tabindex="0"><code>git push origin master
+</code></pre><p>或者</p>
+<pre tabindex="0"><code>git reset
+git clean -f
+git checkout -- .
+</code></pre><h4 id="push失败">push失败</h4>
 <pre tabindex="0"><code>$ git push
 fatal: unable to access &#39;https://github.com/junxinjay/junxinjay.github.io.git/&#39;:
  Failed to connect to github.com port 443 after 2081 ms: Couldn&#39;t connect to ser
