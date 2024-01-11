@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>医美 on 君心Jay</title>
-    <link>http://example.org/zh/tags/%E5%8C%BB%E7%BE%8E/</link>
+    <link>https://junxinjay.netlify.app/zh/tags/%E5%8C%BB%E7%BE%8E/</link>
     <description>Recent content in 医美 on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/%E5%8C%BB%E7%BE%8E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.netlify.app/zh/tags/%E5%8C%BB%E7%BE%8E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>海报-医美类</title>
-      <link>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</guid>
       <description>平面海报 -End</description>
     </item>
     

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>写实渲染 on 君心Jay</title>
-    <link>http://example.org/zh/tags/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93/</link>
+    <link>https://junxinjay.netlify.app/zh/tags/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93/</link>
     <description>Recent content in 写实渲染 on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.netlify.app/zh/tags/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>立方体</title>
-      <link>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>芯片</title>
-      <link>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>魔戒</title>
-      <link>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</guid>
       <description>-End</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>保健品 on 君心Jay</title>
-    <link>http://example.org/zh/tags/%E4%BF%9D%E5%81%A5%E5%93%81/</link>
+    <link>https://junxinjay.netlify.app/zh/tags/%E4%BF%9D%E5%81%A5%E5%93%81/</link>
     <description>Recent content in 保健品 on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/%E4%BF%9D%E5%81%A5%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.netlify.app/zh/tags/%E4%BF%9D%E5%81%A5%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>保健品渲染</title>
-      <link>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</guid>
       <description>模型 渲染 -End</description>
     </item>
     

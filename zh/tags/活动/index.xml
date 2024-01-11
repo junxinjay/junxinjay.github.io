@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>活动 on 君心Jay</title>
-    <link>http://example.org/zh/tags/%E6%B4%BB%E5%8A%A8/</link>
+    <link>https://junxinjay.netlify.app/zh/tags/%E6%B4%BB%E5%8A%A8/</link>
     <description>Recent content in 活动 on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.netlify.app/zh/tags/%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>活动首页</title>
-      <link>http://example.org/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</guid>
       <description>End</description>
     </item>
     
