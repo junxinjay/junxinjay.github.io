@@ -6,14 +6,14 @@
     <description>Recent content in page on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>分享</title>
       <link>https://junxinjay.github.io/zh/page/share/</link>
-      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://junxinjay.github.io/zh/page/share/</guid>
-      <description>hugo主题模版 自用hugo主题模版，由Blist主题修改而来。
+      <description>hugo主题模版 自用hugo主题模版，由Blist主题修改而来，因为我不懂代码，一点一点修改了很久，最终修改成了理想的样式，希望你也喜欢这个主题。
 百度云：【？？？】
 下载程序 git.exe //安装
 github Desktop.exe //安装
@@ -21,7 +21,7 @@ hugo //需要放到一个合适的地方
 配置环境变量 把hugo所在的文件夹添加到环境变量（方法问度娘）
 建立博客 进入hugo根目录文件夹
 生成一个叫hugoblog的博客
-hugo new site hugoblog //创建名为hugoblog项目 cd hugoblog //进入hugoblog hugo new about.md //创建一个 about 页面，可以进入随便写点东西先 下载主题 1.下载喜欢的主题（官网有）放在bugoblog/themes文件夹下，我这里下Blist
+hugo new site hugoblog //创建名为hugoblog项目cd hugoblog //进入hugobloghugo new about.md //创建一个 about 页面，可以进入随便写点东西先 下载主题 1.下载喜欢的主题（官网有）放在bugoblog/themes文件夹下，我这里下Blist
 2.把主题下的静态文件和配置文件都复制到bugoblog根目录中
 assets
 i18n
@@ -32,7 +32,7 @@ package.json
 package-lock.json
 3.配置主题
 用VScode打开hugo.toml
-baseURL = &amp;#34;http://example.org/&amp;#34; languageCode = &amp;#34;en-us&amp;#34; title = &amp;#34;My New Hugo Site&amp;#34; theme: blist //加上这个主题名字，和themes文件夹下的一致 bugoblog目录下右键Open Git Bash here
+baseURL = &amp;#34;http://example.org/&amp;#34; languageCode = &amp;#34;en-us&amp;#34;title = &amp;#34;My New Hugo Site&amp;#34;theme: blist //加上这个主题名字，和themes文件夹下的一致 bugoblog目录下右键Open Git Bash here
 npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： http://localhost:1313</description>
     </item>
     
