@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>habo on 君心Jay</title>
-    <link>https://junxinjay.github.io/zh/tags/habo/</link>
+    <link>http://example.org/zh/tags/habo/</link>
     <description>Recent content in habo on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/tags/habo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/habo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>logo-habo</title>
-      <link>https://junxinjay.github.io/zh/blog/logo-habo/</link>
+      <link>http://example.org/zh/blog/logo-habo/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/logo-habo/</guid>
+      <guid>http://example.org/zh/blog/logo-habo/</guid>
       <description>哈博药业外贸网站logo logo构成 “H”-Healthy健康
 “A”-Aurora曙光,朝霞
 “B”-Beloved爱的人

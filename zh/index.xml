@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home of junxinjay on 君心Jay</title>
-    <link>https://junxinjay.github.io/zh/</link>
+    <link>http://example.org/zh/</link>
     <description>Recent content in home of junxinjay on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>photoshop</title>
-      <link>https://junxinjay.github.io/zh/note/photoshop/</link>
+      <link>http://example.org/zh/note/photoshop/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/note/photoshop/</guid>
+      <guid>http://example.org/zh/note/photoshop/</guid>
       <description>。。。
 -End</description>
     </item>
     
     <item>
       <title>分享</title>
-      <link>https://junxinjay.github.io/zh/page/share/</link>
+      <link>http://example.org/zh/page/share/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/page/share/</guid>
+      <guid>http://example.org/zh/page/share/</guid>
       <description>hugo主题模版 自用hugo主题模版，由Blist主题修改而来，因为我不懂代码，一点一点修改了很久，最终修改成了理想的样式，希望你也喜欢这个主题。
 百度云：【？？？】
 下载程序 git.exe //安装
@@ -48,10 +48,10 @@ npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： 
     
     <item>
       <title>关于...</title>
-      <link>https://junxinjay.github.io/zh/page/about/</link>
+      <link>http://example.org/zh/page/about/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/page/about/</guid>
+      <guid>http://example.org/zh/page/about/</guid>
       <description>关于我 我是一个设计爱好者。 喜欢看电影和打游戏， 擅于利用搜索解决各类问题， 喜欢折腾各种系统、软件和APP，电脑重装，手机刷机。 平时有时间就只想在家躺着。。。
 关于工作 我想说，
 工作是一场马拉松，不是短跑。 尊重人，而不是头衔。 工作从白板开始，而不是从键盘。 产出的是价值，而不是图片。 热爱生活，而不是工作。 学会享受过程。 关于生活 我想说， 生活,不只是诗和远方,还有眼前的苟且， 哈哈，let&amp;rsquo;s dance!</description>
@@ -59,175 +59,175 @@ npm installnpm i -g postcss-cli 查看博客 hugo server 浏览器里打开： 
     
     <item>
       <title>宇航员JX-08</title>
-      <link>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%AE%87%E8%88%AA%E5%91%98jx-08/</link>
+      <link>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%AE%87%E8%88%AA%E5%91%98jx-08/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%AE%87%E8%88%AA%E5%91%98jx-08/</guid>
+      <guid>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%AE%87%E8%88%AA%E5%91%98jx-08/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>巡逻者</title>
-      <link>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%B7%A1%E9%80%BB%E8%80%85/</link>
+      <link>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%B7%A1%E9%80%BB%E8%80%85/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%B7%A1%E9%80%BB%E8%80%85/</guid>
+      <guid>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%B7%A1%E9%80%BB%E8%80%85/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>兔叽</title>
-      <link>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%85%94%E5%8F%BD/</link>
+      <link>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%85%94%E5%8F%BD/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%85%94%E5%8F%BD/</guid>
+      <guid>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E5%85%94%E5%8F%BD/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>狗子</title>
-      <link>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</link>
+      <link>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</guid>
+      <guid>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</guid>
       <description>看到有个表情包挺好玩的，试着建模渲染一下，本来想做一套的，奈何没找到成套的表情包，以后有时间再找找，再做几张😄
 -End</description>
     </item>
     
     <item>
       <title>low poly场景渲染</title>
-      <link>https://junxinjay.github.io/zh/blog/lowpoly%E6%B8%B2%E6%9F%93/</link>
+      <link>http://example.org/zh/blog/lowpoly%E6%B8%B2%E6%9F%93/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/lowpoly%E6%B8%B2%E6%9F%93/</guid>
+      <guid>http://example.org/zh/blog/lowpoly%E6%B8%B2%E6%9F%93/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>立方体</title>
-      <link>https://junxinjay.github.io/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</link>
+      <link>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</guid>
+      <guid>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E7%AB%8B%E6%96%B9%E4%BD%93/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>芯片</title>
-      <link>https://junxinjay.github.io/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</link>
+      <link>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</guid>
+      <guid>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E8%8A%AF%E7%89%87/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>魔戒</title>
-      <link>https://junxinjay.github.io/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</link>
+      <link>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</guid>
+      <guid>http://example.org/zh/blog/%E5%86%99%E5%AE%9E%E6%B8%B2%E6%9F%93-%E9%AD%94%E6%88%92/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>化妆品渲染</title>
-      <link>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</link>
+      <link>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</guid>
+      <guid>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>洗手液渲染</title>
-      <link>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</link>
+      <link>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</guid>
+      <guid>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>野生菌渲染</title>
-      <link>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</link>
+      <link>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</guid>
+      <guid>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</guid>
       <description>客户意愿 客户给到的只有包装文件，没有产品图，希望通过渲染的方式达到一个比较好得效果。
 产品尺寸 产品颜色 KV海报 -End</description>
     </item>
     
     <item>
       <title>保健品渲染</title>
-      <link>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</link>
+      <link>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</guid>
+      <guid>http://example.org/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</guid>
       <description>模型 渲染 -End</description>
     </item>
     
     <item>
       <title>包装-石斛礼盒</title>
-      <link>https://junxinjay.github.io/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E7%A4%BC%E7%9B%92/</link>
+      <link>http://example.org/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E7%A4%BC%E7%9B%92/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E7%A4%BC%E7%9B%92/</guid>
+      <guid>http://example.org/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E7%A4%BC%E7%9B%92/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>包装-石斛鸡年卡</title>
-      <link>https://junxinjay.github.io/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E9%B8%A1%E5%B9%B4%E5%8D%A1/</link>
+      <link>http://example.org/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E9%B8%A1%E5%B9%B4%E5%8D%A1/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E9%B8%A1%E5%B9%B4%E5%8D%A1/</guid>
+      <guid>http://example.org/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E9%B8%A1%E5%B9%B4%E5%8D%A1/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>包装-石斛固体饮料</title>
-      <link>https://junxinjay.github.io/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99/</link>
+      <link>http://example.org/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99/</guid>
+      <guid>http://example.org/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99/</guid>
       <description>-End</description>
     </item>
     
     <item>
       <title>logo-小鲜萃</title>
-      <link>https://junxinjay.github.io/zh/blog/logo-%E5%B0%8F%E9%B2%9C%E8%90%83/</link>
+      <link>http://example.org/zh/blog/logo-%E5%B0%8F%E9%B2%9C%E8%90%83/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/logo-%E5%B0%8F%E9%B2%9C%E8%90%83/</guid>
+      <guid>http://example.org/zh/blog/logo-%E5%B0%8F%E9%B2%9C%E8%90%83/</guid>
       <description>过程稿 品牌规范 -End</description>
     </item>
     
     <item>
       <title>logo-庐州</title>
-      <link>https://junxinjay.github.io/zh/blog/logo-%E5%BA%90%E5%B7%9E/</link>
+      <link>http://example.org/zh/blog/logo-%E5%BA%90%E5%B7%9E/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/logo-%E5%BA%90%E5%B7%9E/</guid>
+      <guid>http://example.org/zh/blog/logo-%E5%BA%90%E5%B7%9E/</guid>
       <description>合肥古城景区logo 这是一个虚拟项目，练习works。
 创作思路 效果展示 -End</description>
     </item>
     
     <item>
       <title>logo-塑身衣</title>
-      <link>https://junxinjay.github.io/zh/blog/logo-%E5%A1%91%E8%BA%AB%E8%A1%A3/</link>
+      <link>http://example.org/zh/blog/logo-%E5%A1%91%E8%BA%AB%E8%A1%A3/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/logo-%E5%A1%91%E8%BA%AB%E8%A1%A3/</guid>
+      <guid>http://example.org/zh/blog/logo-%E5%A1%91%E8%BA%AB%E8%A1%A3/</guid>
       <description>塑身衣logo设计 -End</description>
     </item>
     
     <item>
       <title>logo-habo</title>
-      <link>https://junxinjay.github.io/zh/blog/logo-habo/</link>
+      <link>http://example.org/zh/blog/logo-habo/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/logo-habo/</guid>
+      <guid>http://example.org/zh/blog/logo-habo/</guid>
       <description>哈博药业外贸网站logo logo构成 “H”-Healthy健康
 “A”-Aurora曙光,朝霞
 “B”-Beloved爱的人
@@ -240,110 +240,110 @@ HABO号召语 Care With No Words。中文意思是关爱无声。换句话说HAB
     
     <item>
       <title>活动首页</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</link>
+      <link>http://example.org/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</guid>
+      <guid>http://example.org/zh/blog/%E6%B4%BB%E5%8A%A8%E9%A6%96%E9%A1%B5/</guid>
       <description>End</description>
     </item>
     
     <item>
       <title>日常首页</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%97%A5%E5%B8%B8%E9%A6%96%E9%A1%B5/</link>
+      <link>http://example.org/zh/blog/%E6%97%A5%E5%B8%B8%E9%A6%96%E9%A1%B5/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%97%A5%E5%B8%B8%E9%A6%96%E9%A1%B5/</guid>
+      <guid>http://example.org/zh/blog/%E6%97%A5%E5%B8%B8%E9%A6%96%E9%A1%B5/</guid>
       <description>End</description>
     </item>
     
     <item>
       <title>详情页-服饰类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
       <description>塑身衣 -End</description>
     </item>
     
     <item>
       <title>详情页-3C类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-3c%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-3c%E7%B1%BB/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-3c%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-3c%E7%B1%BB/</guid>
       <description>筋膜枪 智能锁 -End</description>
     </item>
     
     <item>
       <title>详情页-食品类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
       <description>钙铁锌硒咀嚼片 这是一款青少年以及儿童食用的钙铁锌硒咀嚼片，整个详情页用了产品包装色-绿色，让详情页整体具有统一感和协调感，在创意上用了符合产品调性的梦想宇航员作为背景去烘托表现产品给人带来一种的童真的，梦想实现的感觉。
 凝胶糖果 牛磺酸片 坚果 End</description>
     </item>
     
     <item>
       <title>海报-医美类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</link>
+      <link>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</guid>
+      <guid>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</guid>
       <description>平面海报 -End</description>
     </item>
     
     <item>
       <title>海报-服饰类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
       <description>塑身衣PC海报 End</description>
     </item>
     
     <item>
       <title>海报-食品类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
       <description>详情KV海报 -End</description>
     </item>
     
     <item>
       <title>直通车-食品类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
       <description>直通车图-食品 -End</description>
     </item>
     
     <item>
       <title>直通车-服饰类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
       <description>直通车图-服饰 -End</description>
     </item>
     
     <item>
       <title>直通车-3C类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</guid>
       <description>直通车图-3C End</description>
     </item>
     
     <item>
       <title>钻展-服饰类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E9%92%BB%E5%B1%95-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E9%92%BB%E5%B1%95-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E9%92%BB%E5%B1%95-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E9%92%BB%E5%B1%95-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
       <description>钻展-服饰 End</description>
     </item>
     

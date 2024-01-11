@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>直通车 on 君心Jay</title>
-    <link>https://junxinjay.github.io/zh/tags/%E7%9B%B4%E9%80%9A%E8%BD%A6/</link>
+    <link>http://example.org/zh/tags/%E7%9B%B4%E9%80%9A%E8%BD%A6/</link>
     <description>Recent content in 直通车 on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/tags/%E7%9B%B4%E9%80%9A%E8%BD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/%E7%9B%B4%E9%80%9A%E8%BD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>直通车-食品类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
       <description>直通车图-食品 -End</description>
     </item>
     
     <item>
       <title>直通车-服饰类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
       <description>直通车图-服饰 -End</description>
     </item>
     
     <item>
       <title>直通车-3C类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E8%BD%A6%E5%9B%BE-3c%E7%B1%BB/</guid>
       <description>直通车图-3C End</description>
     </item>
     

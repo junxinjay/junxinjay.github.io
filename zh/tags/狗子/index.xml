@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>狗子 on 君心Jay</title>
-    <link>https://junxinjay.github.io/zh/tags/%E7%8B%97%E5%AD%90/</link>
+    <link>http://example.org/zh/tags/%E7%8B%97%E5%AD%90/</link>
     <description>Recent content in 狗子 on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/tags/%E7%8B%97%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/%E7%8B%97%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>狗子</title>
-      <link>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</link>
+      <link>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</guid>
+      <guid>http://example.org/zh/blog/ip%E8%A7%92%E8%89%B2-%E7%8B%97%E5%AD%90/</guid>
       <description>看到有个表情包挺好玩的，试着建模渲染一下，本来想做一套的，奈何没找到成套的表情包，以后有时间再找找，再做几张😄
 -End</description>
     </item>

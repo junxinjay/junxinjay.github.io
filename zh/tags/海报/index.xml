@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>海报 on 君心Jay</title>
-    <link>https://junxinjay.github.io/zh/tags/%E6%B5%B7%E6%8A%A5/</link>
+    <link>http://example.org/zh/tags/%E6%B5%B7%E6%8A%A5/</link>
     <description>Recent content in 海报 on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://junxinjay.github.io/zh/tags/%E6%B5%B7%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/zh/tags/%E6%B5%B7%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>海报-医美类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</link>
+      <link>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</guid>
+      <guid>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E%E7%B1%BB-/</guid>
       <description>平面海报 -End</description>
     </item>
     
     <item>
       <title>海报-服饰类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0%E7%B1%BB/</guid>
       <description>塑身衣PC海报 End</description>
     </item>
     
     <item>
       <title>海报-食品类</title>
-      <link>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
+      <link>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junxinjay.github.io/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
+      <guid>http://example.org/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81%E7%B1%BB/</guid>
       <description>详情KV海报 -End</description>
     </item>
     
